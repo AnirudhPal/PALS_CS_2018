@@ -10,7 +10,7 @@
     * [*Log Off / Log In*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#log-off--log-in)
     * [*What is Programming?*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#what-is-programming)
 
-2. [**Refrences**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#references)
+2. [**References**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#references)
 
 ## Day 1
 
