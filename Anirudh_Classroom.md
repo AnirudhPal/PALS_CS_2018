@@ -2,6 +2,16 @@
 
 ## Index
 
+1. [**Day 1**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-1)
+
+    * [*Install AdBlock*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#install-adblock)
+    * [*Mouse Activity*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#mouse-activity)
+    * [*Keyboard Activity*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#keyboard-activity)
+    * [*Log Off / Log In*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#log-off--log-in)
+    * [*What is Programming?*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#what-is-programming)
+
+2. [**Refrences**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#references)
+
 ## Day 1
 
 ### Install AdBlock
@@ -74,7 +84,7 @@
 
 ### What is Programming?
 
-Programming is creating a sequence of instructions called a Program to enable the computer to do something. Lets do an activty to better understand this concept.
+Programming is creating a sequence of instructions called a Program to enable the computer to do something. Lets do an activity to better understand this concept.
 
 ## References
 
