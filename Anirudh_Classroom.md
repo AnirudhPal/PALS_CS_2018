@@ -36,9 +36,15 @@
 
 > Scroll Down
 
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/NetPlay_Scrool.PNG?raw=true)
+
 > Click on *FULL SCREEN* and play the game.
 
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/NetPlay_Full.PNG?raw=true)
+
 > Keep your scores ready.
+
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/NetPlay_Score.PNG?raw=true)
 
 ### Keyboard Activity
 
@@ -46,13 +52,21 @@
 
 > Click on *new game*.
 
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/ZType_New.png?raw=true)
+
 > Keep your scores ready.
+
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/ZType_Score.png?raw=true)
 
 ### Log Off / Log In
 
 > Click on Start.
 
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/LogOff_Start.gif?raw=true)
+
 > Click on *Log Off*.
+
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/LogOff_Off.gif?raw=true)
 
 > Follow the Log In Instruction Booklet.
 
