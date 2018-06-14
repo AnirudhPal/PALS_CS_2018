@@ -8,15 +8,27 @@
 
 > Open chrome's options menu.
 
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/AdBlock_OpenChrome.gif?raw=true)
+
 > Navigate to *More tools*.
+
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/AdBlock_MoreTools.gif?raw=true)
 
 > Click on *Extensions*.
 
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/AdBlock_Extenstions.gif?raw=true)
+
 > Click on *Get more Extensions*.
+
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/AdBlock_GetMore.gif?raw=true)
 
 > Search for *ABP*.
 
-> Install **.
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/AdBlock_Search.gif?raw=true)
+
+> Install *AdBlock*.
+
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/AdBlock_Install.gif?raw=true)
 
 ### Mouse Activity
 
