@@ -70,6 +70,8 @@
 
 > Follow the Log In Instruction Booklet.
 
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/Card.PNG?raw=true)
+
 ### What is Programming?
 
 Programming is creating a sequence of instructions called a Program to enable the computer to do something. Lets do an activty to better understand this concept.
