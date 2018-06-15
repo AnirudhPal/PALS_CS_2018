@@ -86,6 +86,44 @@
 
 Programming is creating a sequence of instructions called a Program to enable the computer to do something. Lets do an activity to better understand this concept.
 
+## Day 2
+
+### Conversational Programming
+
+The students give me *one line* instructions to get me from point A to B.
+
+### Instructional Programming
+
+The students give me *one word* instructions to get me from point A to B.
+
+Instruction Set:
+
+Instruction|Meaning
+:-|-:
+Forward| Move forward one step.
+Backward| Move backward one step.
+Right| Turn right by 90 degress on the spot.
+Left| Turn left by 90 degress on the spot.
+
+### Binary Programming
+
+The students give me *one digit* instructions to get me from point A to B.
+
+Instruction Set:
+
+Instruction|Meaning
+:-|-:
+0| Move forward one step.
+1| Turn right by 90 degress on the spot.
+
+### Human Sort
+
+### Selection Sort
+
+### Bubble Sort
+
+### Algorithms, Instruction Sets and More
+
 ## References
 
 1. [NetPlay Mouse Training](https://www.netplay.life/)
