@@ -9,8 +9,18 @@
     * [*Keyboard Activity*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#keyboard-activity)
     * [*Log Off / Log In*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#log-off--log-in)
     * [*What is Programming?*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#what-is-programming)
+    
+2. [**Day 2**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-2)
 
-2. [**References**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#references)
+    * [*Conversational Programming*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#conversational-programming)
+    * [*Instructional Programming*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#instructional-programming)
+    * [*Binary Programming*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#binary-programming)
+    * [*Human Sort*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#human-sort)
+    * [*Selection Sort*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#selection-sort)
+    * [*Bubble Sort*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#bubble-sort)
+    * [*Algorithms, Instruction Sets and More*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#algorithms-instruction-sets-and-more)
+
+3. [**References**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#references)
 
 ## Day 1
 
@@ -102,8 +112,8 @@ Instruction|Meaning
 :-|-:
 Forward| Move forward one step.
 Backward| Move backward one step.
-Right| Turn right by 90 degress on the spot.
-Left| Turn left by 90 degress on the spot.
+Right| Turn right by 90 degrees on the spot.
+Left| Turn left by 90 degrees on the spot.
 
 ### Binary Programming
 
@@ -114,11 +124,11 @@ Instruction Set:
 Instruction|Meaning
 :-|-:
 0| Move forward one step.
-1| Turn right by 90 degress on the spot.
+1| Turn right by 90 degrees on the spot.
 
 ### Human Sort
 
-Human process instructions in a very complex but effecient manner. We are able to constanly observe change and thus sort ourselves rather quickly. Driving is a example of humans performing a complex task very easily.
+Human process instructions in a very complex but efficient manner. We are able to constantly observe change and thus sort ourselves rather quickly. Driving is a example of humans performing a complex task very easily.
 
 ![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/Driving.gif?raw=true)
 
