@@ -138,7 +138,7 @@ We pick the a number and keep moving it till we find the right slot.
 
 ![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/Selection_Sort.gif?raw=true)
 
-### Bubble Sort
+### Bubble Sort (Easier for Humans)
 
 We compare pairs and swap them if needed.
 
