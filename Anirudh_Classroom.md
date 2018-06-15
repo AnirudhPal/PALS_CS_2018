@@ -118,14 +118,28 @@ Instruction|Meaning
 
 ### Human Sort
 
+Human process instructions in a very complex but effecient manner. We are able to constanly observe change and thus sort ourselves rather quickly. Driving is a example of humans performing a complex task very easily.
+
+![]()
+
 ### Selection Sort
+
+We pick the a number and keep moving it till we find the right slot.
+
+![]()
 
 ### Bubble Sort
 
+We compare pairs and swap them if needed.
+
+![]()
+
 ### Algorithms, Instruction Sets and More
+
+*Instruction Set* is a finite list of very specific operations. *Algorithm* is a precise rule specifying how to solve some problem.
 
 ## References
 
 1. [NetPlay Mouse Training](https://www.netplay.life/)
 2. [Ztype Keyboard Training](http://zty.pe/)
-3. [Kids Dictionary Programming](http://dictionary.kids.net.au/word/computer_programming)
+3. [Kids Dictionary](http://dictionary.kids.net.au/)
