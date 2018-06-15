@@ -120,19 +120,19 @@ Instruction|Meaning
 
 Human process instructions in a very complex but effecient manner. We are able to constanly observe change and thus sort ourselves rather quickly. Driving is a example of humans performing a complex task very easily.
 
-![]()
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/Driving.gif?raw=true)
 
 ### Selection Sort
 
 We pick the a number and keep moving it till we find the right slot.
 
-![]()
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/Selection_Sort.gif?raw=true)
 
 ### Bubble Sort
 
 We compare pairs and swap them if needed.
 
-![]()
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/Bubble_Sort.gif?raw=true)
 
 ### Algorithms, Instruction Sets and More
 
@@ -143,3 +143,6 @@ We compare pairs and swap them if needed.
 1. [NetPlay Mouse Training](https://www.netplay.life/)
 2. [Ztype Keyboard Training](http://zty.pe/)
 3. [Kids Dictionary](http://dictionary.kids.net.au/)
+4. [Wikimedia](https://commons.wikimedia.org/)
+5. [Coding Connect](https://www.codingconnect.net/)
+6. [Giphy](https://giphy.com/)
