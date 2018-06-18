@@ -29,3 +29,5 @@ Station Number|Username|Password|Test|ABP Install|Homepage
 25|g1087042|8SkjREkX|No|No|No
 26|g1087043|5iLmabRt|No|No|No
 27|g1087044|WVWVsZT4|No|No|No
+
+* 2, 3, 10, 12, 14, 15, 18 Possibly does not work
