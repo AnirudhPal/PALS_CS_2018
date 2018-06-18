@@ -68,6 +68,6 @@ print("   |    |                                         |     |  ")
 print("   |    |                                         |     |  ")
 ```
 # Step 4: Run the Program
-Click F5 to run the program
+Click **F5** to run the program
 
 #Congratulations! They have just written their first Python Program
