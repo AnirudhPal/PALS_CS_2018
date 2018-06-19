@@ -148,6 +148,18 @@ We compare pairs and swap them if needed.
 
 *Instruction Set* is a finite list of very specific operations. *Algorithm* is a precise rule specifying how to solve some problem.
 
+## Day3
+
+### Install Cmder
+
+Install -> [Cmder](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/Assets/Cmder_Files.zip?raw=true)
+
+### Secure Shell
+
+### Source Control
+
+### Compile
+
 ## References
 
 1. [NetPlay Mouse Training](https://www.netplay.life/)
