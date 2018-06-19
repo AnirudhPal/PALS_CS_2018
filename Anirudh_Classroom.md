@@ -20,13 +20,19 @@
     * [*Bubble Sort*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#bubble-sort)
     * [*Algorithms, Instruction Sets and More*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#algorithms-instruction-sets-and-more)
 
-3. [**Day 3**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-2)
+3. [**Day 3**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-3)
 
     * [*Install Cmder*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#install-cmder)
     * [*Secure Shell*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#secure-shell)
     * [*Source Control*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#source-control)
     * [*Compile*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#compile)
     * [*Execute*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#execute)
+ 
+ 4. [**Day 4**]()
+ 
+    * [*Follow Instructions*]()
+    * [*C Hello World*]()
+    * [*Python Hello World*]()
     
 4. [**References**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#references)
 
@@ -235,6 +241,65 @@ cd bin
 After running this your screen should look like this.
 
 ![]()
+
+## Day 4
+
+### Follow Instructions
+
+> Please use previous knowledge and this instructional to get to the right setup for this lab session.
+
+Open Cmder
+
+Enter the following commands and remember to replace 'X' with your assigned user number:
+
+``` bash
+ssh UserX@10.185.1.169
+yes
+1234
+git clone URL
+cd PATH
+make
+./hello
+```
+
+### C Hello World
+
+> A Hello World program is general the simplest and first program a prgrammer writes in a new programming language. We are going to write such a program for the programming language C.
+
+Enter the command:
+
+``` bash
+vim hello.c
+```
+
+Use arrow keys to get to line XX.
+
+Press *i*.
+
+Type *printf("Hello World!!");*
+
+Press *ESC*.
+
+Type *:wq*.
+
+Enter the following commands:
+
+``` bash
+make
+./hello
+```
+
+### Python Hello World
+
+> We will do the same for the programming language Python.
+
+Enter the command:
+
+``` bash
+python
+```
+
+Type *print("Hello World!!")*.
 
 ## References
 
