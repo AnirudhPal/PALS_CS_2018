@@ -152,11 +152,39 @@ We compare pairs and swap them if needed.
 
 ### Install Cmder
 
-Install -> [Cmder](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/Assets/Cmder_Files.zip?raw=true)
+Download -> [Cmder](https://github.com/cmderdev/cmder/releases/download/v1.3.6/cmder_mini.zip)
+
+Click on *Show in folder*.
+
+![]()
+
+Right Click and then *Extract All*.
+
+![]()
+
+Open Application.
+
+![]()
 
 ### Secure Shell
 
+> SSH or SecureShell is a application that allows you to remotely accesses other Linux computers. This allows people to share one single computer or work on another computer remotely.
+
+Replace 'X' with user number.
+
+``` bash
+ssh UserX@10.185.1.169
+```
+
+Say *yes* if you get a prompt.
+
+Enter password *1234*.
+
 ### Source Control
+
+``` bash
+git clone https://github.com/alexdantas/nSnake.git
+```
 
 ### Compile
 
