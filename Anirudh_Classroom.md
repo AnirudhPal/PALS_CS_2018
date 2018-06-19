@@ -20,7 +20,15 @@
     * [*Bubble Sort*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#bubble-sort)
     * [*Algorithms, Instruction Sets and More*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#algorithms-instruction-sets-and-more)
 
-3. [**References**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#references)
+3. [**Day 3**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-2)
+
+    * [*Install Cmder*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#install-cmder)
+    * [*Secure Shell*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#secure-shell)
+    * [*Source Control*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#source-control)
+    * [*Compile*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#compile)
+    * [*Execute*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#execute)
+    
+4. [**References**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#references)
 
 ## Day 1
 
@@ -148,7 +156,7 @@ We compare pairs and swap them if needed.
 
 *Instruction Set* is a finite list of very specific operations. *Algorithm* is a precise rule specifying how to solve some problem.
 
-## Day3
+## Day 3
 
 ### Install Cmder
 
@@ -158,7 +166,7 @@ Click on *Show in folder*.
 
 ![]()
 
-Right Click and then *Extract All*.
+Right Click and then *Extract Here*.
 
 ![]()
 
@@ -170,7 +178,7 @@ Open Application.
 
 > SSH or SecureShell is a application that allows you to remotely accesses other Linux computers. This allows people to share one single computer or work on another computer remotely.
 
-Replace 'X' with user number and enter the command below.
+Replace 'X' with user number and enter the command below. NOTE: This will only work in the Computer Labs during the camp!
 
 ``` bash
 ssh UserX@10.185.1.169
@@ -180,7 +188,7 @@ Say *yes* if you get a prompt.
 
 Enter password *1234*.
 
-After running this your screen should look like this.
+After running this your screen should look similar this.
 
 ![]()
 
@@ -236,3 +244,5 @@ After running this your screen should look like this.
 4. [Wikimedia](https://commons.wikimedia.org/)
 5. [Coding Connect](https://www.codingconnect.net/)
 6. [Giphy](https://giphy.com/)
+7. [nSnake]()
+8. [Cmder]()
