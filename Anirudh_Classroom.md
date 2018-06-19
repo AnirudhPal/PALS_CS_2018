@@ -170,7 +170,7 @@ Open Application.
 
 > SSH or SecureShell is a application that allows you to remotely accesses other Linux computers. This allows people to share one single computer or work on another computer remotely.
 
-Replace 'X' with user number.
+Replace 'X' with user number and enter the command below.
 
 ``` bash
 ssh UserX@10.185.1.169
@@ -180,13 +180,53 @@ Say *yes* if you get a prompt.
 
 Enter password *1234*.
 
+After running this your screen should look like this.
+
+![]()
+
 ### Source Control
+
+> GIT is a application that allows exchange of code and is used to log modification to files that are shared among multiple users. We only use it to download source code.
+
+Enter the command below.
 
 ``` bash
 git clone https://github.com/alexdantas/nSnake.git
 ```
 
+After running this your screen should look like this.
+
+![]()
+
 ### Compile
+
+> Code on its own is just a bunch of text. It has to be translated so the machine can understand it. This process of translation is called compiling your code.
+
+Enter the commands below.
+
+``` bash
+cd nSnake
+make
+```
+
+After running this your screen should look like this.
+
+![]()
+
+### Execute
+
+> At this point we have the code translated to what a machine can understand. But when does it start reading it? We have to tell it start reading the code and running the application. This process is called execution.
+
+Enter the commands below.
+
+``` bash
+cd bin
+./nsnake
+```
+
+After running this your screen should look like this.
+
+![]()
 
 ## References
 
