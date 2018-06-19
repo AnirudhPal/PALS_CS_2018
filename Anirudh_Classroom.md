@@ -28,11 +28,11 @@
     * [*Compile*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#compile)
     * [*Execute*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#execute)
  
- 4. [**Day 4**]()
+ 4. [**Day 4**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-4)
  
-    * [*Follow Instructions*]()
-    * [*C Hello World*]()
-    * [*Python Hello World*]()
+    * [*Follow Instructions*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#follow-instructions)
+    * [*C Hello World*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#c-hello-world)
+    * [*Python Hello World*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#python-hello-world)
     
 4. [**References**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#references)
 
@@ -264,7 +264,7 @@ make
 
 ### C Hello World
 
-> A Hello World program is general the simplest and first program a prgrammer writes in a new programming language. We are going to write such a program for the programming language C.
+> A Hello World program is general the simplest and first program a programmer writes in a new programming language. We are going to write such a program for the programming language C.
 
 Enter the command:
 
