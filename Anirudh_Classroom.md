@@ -264,7 +264,7 @@ make
 
 ### C Hello World
 
-> A Hello World program is general the simplest and first program a programmer writes in a new programming language. We are going to write such a program for the programming language C.
+> A Hello World program is generally the simplest and first program a programmer writes in a new programming language. We are going to write such a program for the programming language C.
 
 Enter the command:
 
