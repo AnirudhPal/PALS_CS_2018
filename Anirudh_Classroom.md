@@ -256,8 +256,8 @@ Enter the following commands and remember to replace 'X' with your assigned user
 ssh UserX@10.185.1.169
 yes
 1234
-git clone URL
-cd PATH
+git clone https://github.com/AnirudhPal/PALS_C_Hello_World.git
+cd PALS_C_Hello_World
 make
 ./hello
 ```
@@ -272,7 +272,7 @@ Enter the command:
 vim hello.c
 ```
 
-Use arrow keys to get to line XX.
+Use arrow keys to get to line 7.
 
 Press *i*.
 
@@ -309,5 +309,5 @@ Type *print("Hello World!!")*.
 4. [Wikimedia](https://commons.wikimedia.org/)
 5. [Coding Connect](https://www.codingconnect.net/)
 6. [Giphy](https://giphy.com/)
-7. [nSnake]()
-8. [Cmder]()
+7. [nSnake](https://github.com/alexdantas/nSnake)
+8. [Cmder](http://cmder.net/)
