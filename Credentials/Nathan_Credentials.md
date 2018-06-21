@@ -5,8 +5,8 @@ Station Number|Username|Password|Works|ABP Install|Homepage
 1|g1086964|P@ssword|Yes|No|No
 2|g1086965|IhKde8me|No|No|No
 3|g1086966|fhTsXv5i|No|No|No
-4|g1087021|XEuI6Dwv|Yes|No|No
-5|g1087022|WMI28Xmy|Yes|No|No
+4|g1087021|P@ssword|Yes|No|No
+5|g1087022|P@ssword|Yes|No|No
 6|g1087023|een4ka6S|Yes|No|No
 7|g1087024|1iZMJMkB|Yes|No|No
 8|g1087025|3nrFsZKh|Yes|No|No
