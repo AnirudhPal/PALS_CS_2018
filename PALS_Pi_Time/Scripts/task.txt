@@ -1,0 +1,5 @@
+git clone https://github.com/alexdantas/nSnake.git
+cd nSnake
+make
+cd bin
+./nsnake
