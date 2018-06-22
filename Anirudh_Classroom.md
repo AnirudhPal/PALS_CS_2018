@@ -34,15 +34,15 @@
     * [*C Hello World*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#c-hello-world)
     * [*Python Hello World*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#python-hello-world)
 
-5. [**Day 5**]()
+5. [**Day 5**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-4)
    
-    * [*Introductory Word*]()
-    * [*Introductory PowerPoint*]()
-    * [*Introductory Excel*]()
-    * [*PowerPoint Activity*]()
-    * [*Excel Activity*]()
-    * [*Email Activity*]()
-    * [*Stay Secure on the Internet*]()
+    * [*Introductory Word*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#introductory-word)
+    * [*Introductory PowerPoint*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#introductory-powerpoint)
+    * [*Introductory Excel*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#introductory-excel)
+    * [*PowerPoint Activity*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#powerpoint-activity)
+    * [*Excel Activity*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#excel-activity)
+    * [*Email Activity*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#email-activity)
+    * [*Stay Secure on the Internet*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#stay-secure-on-the-internet)
     
 6. [**References**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#references)
 
@@ -329,7 +329,7 @@ Type *print("Hello World!!")*.
 
 ### Email Activity
 
-#### Stay Secure on the Internet
+### Stay Secure on the Internet
 
 ## References
 
