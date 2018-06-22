@@ -311,6 +311,26 @@ python
 
 Type *print("Hello World!!")*.
 
+## Day 5
+
+### Introductory Word
+
+### Introductory PowerPoint
+
+### Introductory Excel
+
+### PowerPoint Activity
+
+> In this activity we will use what we learned in the last class to work on a project. We have to make PowerPoint Presentation that shows us a Top 5's List. The topic is up to you and here is an example to help you out -> [Example]().
+
+[Hint Video](https://youtu.be/2HC5iIG2QTA)
+
+### Excel Activity
+
+### Email Activity
+
+#### Stay Secure on the Internet
+
 ## References
 
 1. [NetPlay Mouse Training](https://www.netplay.life/)
