@@ -321,7 +321,7 @@ Type *print("Hello World!!")*.
 
 ### PowerPoint Activity
 
-> In this activity we will use what we learned in the last class to work on a project. We have to make PowerPoint Presentation that shows us a Top 5's List. The topic is up to you and here is an example to help you out -> [Example]().
+> In this activity we will use what we learned in the last class to work on a project. We have to make PowerPoint Presentation that shows us a Top 5's List. The topic is up to you and here is an example to help you out -> [Example](https://drive.google.com/file/d/1yvcbHd6GNcJVrhURWukqie5-gja--y2S/view?usp=sharing).
 
 [Hint Video](https://youtu.be/2HC5iIG2QTA)
 
