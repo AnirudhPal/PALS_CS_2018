@@ -28,13 +28,23 @@
     * [*Compile*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#compile)
     * [*Execute*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#execute)
  
- 4. [**Day 4**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-4)
+4. [**Day 4**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-4)
  
     * [*Follow Instructions*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#follow-instructions)
     * [*C Hello World*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#c-hello-world)
     * [*Python Hello World*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#python-hello-world)
+
+5. [**Day 5**]()
+   
+    * [*Introductory Word*]()
+    * [*Introductory PowerPoint*]()
+    * [*Introductory Excel*]()
+    * [*PowerPoint Activity*]()
+    * [*Excel Activity*]()
+    * [*Email Activity*]()
+    * [*Stay Secure on the Internet*]()
     
-4. [**References**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#references)
+6. [**References**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#references)
 
 ## Day 1
 
