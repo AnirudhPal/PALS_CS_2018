@@ -43,6 +43,15 @@
     * [*Excel Activity*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#excel-activity)
     * [*Email Activity*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#email-activity)
     * [*Stay Secure on the Internet*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#stay-secure-on-the-internet)
+
+7. [**Day 6**]()
+
+    * [*What is CAD?*]()
+    * [*Create Sketch*]()
+    * [*Create Polygon*]()
+    * [*Offset Plane*]()
+    * [*Loft*]()
+    * [*Vase Tutorial*]()
     
 6. [**References**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#references)
 
