@@ -9,7 +9,7 @@ Station Number|Username|Password|Works|ABP Install|Homepage
 5|g1087022|P@ssword|Yes|No|No
 6|g1087023|P@ssword|Yes|No|No
 7|g1087024|P@ssword|Yes|No|No
-8|g1087025|3nrFsZKh|Yes|No|No
+8|g1087025|3nrFsZKh|No|No|No
 9|g1087026|P@ssword|Yes|No|No
 10|g1087027|SFhD38gN|No|No|No
 11|g1087028|1ctnTKPV|No|No|No
