@@ -8,3 +8,9 @@
 
 ## Tuesday June 19, 2018
 [**The Warehouse**](https://www.mathplayground.com/logic_the_warehouse.html)
+
+## Friday June 22, 2018
+**Sorting Activity**
+
+## Monday June 25, 2018
+**Free Day**
