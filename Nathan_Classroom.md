@@ -14,3 +14,5 @@
 
 ## Monday June 25, 2018
 **Free Day**
+## Tuesday June 26, 2018 (Last Day with Groups 11-20)
+**Free Day**
