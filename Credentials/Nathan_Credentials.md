@@ -3,7 +3,7 @@
 Station Number|Username|Password|Works|ABP Install|Homepage
 :-:|:-:|:-:|:-:|:-:|:-:
 1|g1086964|P@ssword|Yes|No|No
-~~2|g1086965|IhKde8me|No|No|No~~
+2|g1086965|IhKde8me|No|No|No
 3|g1086966|fhTsXv5i|No|No|No
 4|g1087021|P@ssword|Yes|No|No
 5|g1087022|P@ssword|Yes|No|No
