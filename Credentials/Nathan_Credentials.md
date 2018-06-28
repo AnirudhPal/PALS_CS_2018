@@ -24,8 +24,8 @@ Station Number|Username|Password|Works
 20|g1087037|P@ssword|Yes
 21|g1087038|P@ssword|Yes
 22|g1087039|P@ssword|Yes
-23|g1087040|tBadZQ5N|-
-24|g1087041|EJfkSM3r|-
-25|g1087042|8SkjREkX|-
-26|g1087043|5iLmabRt|-
-27|g1087044|WVWVsZT4|-
+23|g1087040|tBadZQ5N|No
+24|g1087041|EJfkSM3r|No
+25|g1087042|8SkjREkX|No
+26|g1087043|P@ssword|Yes
+27|g1087044|P@ssword|Yes
