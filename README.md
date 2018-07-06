@@ -2,7 +2,7 @@
 
 > Please place all documentation in the appropriate file. 
 
-**Usefull Links**
+**Useful Links**
 
 1. [Anirudh Credentials](https://anirudhpal.github.io/PALS_CS_2018/Credentials/Anirudh_Credentials)
 2. [Nathan Credentials](https://anirudhpal.github.io/PALS_CS_2018/Credentials/Nathan_Credentials)
