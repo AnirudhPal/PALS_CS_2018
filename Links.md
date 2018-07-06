@@ -22,6 +22,8 @@
 * [Tynker](https://www.tynker.com/)
   * _Reccomended by Elijah Taylor_
 
+* [Scratch](https://scratch.mit.edu/)
+
 ## Other Flash Game Websites
 
 * [Cool Math Games](http://www.coolmath-games.com/)
