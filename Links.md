@@ -24,6 +24,8 @@
 
 * [Scratch](https://scratch.mit.edu/)
 
-## Other Flash Game Websites
+## Other Flash Game Websites and Fun Games
 
 * [Cool Math Games](http://www.coolmath-games.com/)
+
+* [Google Feud](http://www.googlefeud.com/)
