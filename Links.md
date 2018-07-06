@@ -2,7 +2,7 @@
 
 ## Typing
 
-* [Typing Lesson](https://www.typingclub.com/sportal/program-3.game)
+* [Typing Lessons](https://www.typingclub.com/sportal/program-3.game)
 
 * [Z-Type](http://zty.pe/)
 
