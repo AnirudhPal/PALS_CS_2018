@@ -8,6 +8,7 @@ Kids wil become familiar with using Powerpoint by creating a **Top 10 List**.
 
 ## Step 1: Open Microsoft Powerpoint
 In Cortona, type _Powerpoint_ and click _Powerpoint 2016_.
+
 ![Add Image](../Assets/Powerpoint/Open.gif)
 ## Step 2: Choose your Theme
 Double click the theme of your choice.
