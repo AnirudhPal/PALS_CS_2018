@@ -25,8 +25,12 @@ Add a new slide and edit it.
 
 ![Add Image](../Assets/Powerpoint/New_Slide.gif)
 
+## Step 5: Add Image
+![Add Image](../Assets/Powerpoint/Add_Image.gif)
+
+
 ## Step 5: Repeat
-Repeat **Step 4** until your _Top 10 List_ is complete.
+Repeat **Step 4** and **Step 5** until your _Top 10 List_ is complete.
 
 ## Step 6: Save
 Save your file as your name
