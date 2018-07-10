@@ -44,5 +44,4 @@ Monday, July 9, 2018
 Tuesday, July 10, 2018
 
 **Activity: Microsoft Paint**
-
-Teach them the basics of Microsoft Paint and let them free draw.
+* Teach them the basics of Microsoft Paint and let them free draw.
