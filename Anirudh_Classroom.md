@@ -46,21 +46,12 @@
 
 6. [**Day 6**]()
 
-    * [*What is HTML?*]
-    * [*Understanding Tags*]
-    * [*Nesting Tags*]
-    * [*Simple Website Tutorial*]
-
-7. [**Day 7**]()
-
-    * [*What is CAD?*]()
-    * [*Create Sketch*]()
-    * [*Create Polygon*]()
-    * [*Offset Plane*]()
-    * [*Loft*]()
-    * [*Vase Tutorial*]()
+    * [*What is HTML?*]()
+    * [*Understanding Tags*]()
+    * [*Nesting Tags*]()
+    * [*Simple Website Tutorial*]()
     
-8. [**References**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#references)
+7. [**References**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#references)
 
 ## Day 1
 
@@ -68,27 +59,27 @@
 
 > Open chrome's options menu.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/AdBlock_OpenChrome.gif?raw=true)
+![]()
 
 > Navigate to *More tools*.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/AdBlock_MoreTools.gif?raw=true)
+![]()
 
 > Click on *Extensions*.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/AdBlock_Extenstions.gif?raw=true)
+![]()
 
 > Click on *Get more Extensions*.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/AdBlock_GetMore.gif?raw=true)
+![]()
 
 > Search for *ABP*.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/AdBlock_Search.gif?raw=true)
+![]()
 
 > Install *AdBlock*.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/AdBlock_Install.gif?raw=true)
+![]()
 
 ### Mouse Activity
 
@@ -96,15 +87,15 @@
 
 > Scroll Down
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/NetPlay_Scrool.PNG?raw=true)
+![]()
 
 > Click on *FULL SCREEN* and play the game.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/NetPlay_Full.PNG?raw=true)
+![]()
 
 > Keep your scores ready.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/NetPlay_Score.PNG?raw=true)
+![]()
 
 ### Keyboard Activity
 
@@ -112,25 +103,25 @@
 
 > Click on *new game*.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/ZType_New.png?raw=true)
+![]()
 
 > Keep your scores ready.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/ZType_Score.png?raw=true)
+![]()
 
 ### Log Off / Log In
 
 > Click on Start.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/LogOff_Start.gif?raw=true)
+![]()
 
 > Click on *Log Off*.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/LogOff_Off.gif?raw=true)
+![]()
 
 > Follow the Log In Instruction Booklet.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/Card.PNG?raw=true)
+![]()
 
 ### What is Programming?
 
@@ -170,19 +161,19 @@ Instruction|Meaning
 
 Human process instructions in a very complex but efficient manner. We are able to constantly observe change and thus sort ourselves rather quickly. Driving is a example of humans performing a complex task very easily.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/Driving.gif?raw=true)
+![]()
 
 ### Selection Sort
 
 We pick the a number and keep moving it till we find the right slot.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/Selection_Sort.gif?raw=true)
+![]()
 
 ### Bubble Sort (Easier for Humans)
 
 We compare pairs and swap them if needed.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/Bubble_Sort.gif?raw=true)
+![]()
 
 ### Algorithms, Instruction Sets and More
 
@@ -346,6 +337,16 @@ Type *print("Hello World!!")*.
 ### Email Activity
 
 ### Stay Secure on the Internet
+
+## Day 6
+
+### What is HTML?
+
+### Understanding Tags
+
+### Nesting Tags
+
+### Simple Website Tutorial
 
 ## References
 
