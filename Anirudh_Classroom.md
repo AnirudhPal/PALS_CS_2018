@@ -57,71 +57,71 @@
 
 ### Install AdBlock
 
-> Open chrome's options menu.
+Open chrome's options menu.
 
-![]()
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/au8Igxpw7dE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-> Navigate to *More tools*.
+Navigate to *More tools*.
 
-![]()
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/jMBhRl_y6bo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-> Click on *Extensions*.
+Click on *Extensions*.
 
-![]()
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fc6-NGxawHg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-> Click on *Get more Extensions*.
+Click on *Get more Extensions*.
 
-![]()
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/wBTdq_0i_7Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-> Search for *ABP*.
+Search for *ABP*.
 
-![]()
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/PjumpTYmxY0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-> Install *AdBlock*.
+Install *AdBlock*.
 
-![]()
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/mCAOPjoP3PE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ### Mouse Activity
 
-> Click on Link --> [Mouse Game](https://www.netplay.life/)
+Click on Link --> [Mouse Game](https://www.netplay.life/)
 
-> Scroll Down
+Scroll Down
 
-![]()
+<div class="videoWrapper"></div>
 
-> Click on *FULL SCREEN* and play the game.
+Click on *FULL SCREEN* and play the game.
 
-![]()
+<div class="videoWrapper"></div>
 
-> Keep your scores ready.
+Keep your scores ready.
 
-![]()
+<div class="videoWrapper"></div>
 
 ### Keyboard Activity
 
-> Click on Link --> [Keyboard Game](http://zty.pe/)
+Click on Link --> [Keyboard Game](http://zty.pe/)
 
-> Click on *new game*.
+Click on *new game*.
 
-![]()
+<div class="videoWrapper"></div>
 
-> Keep your scores ready.
+Keep your scores ready.
 
-![]()
+<div class="videoWrapper"></div>
 
 ### Log Off / Log In
 
-> Click on Start.
+Click on Start.
 
-![]()
+<div class="videoWrapper"></div>
 
-> Click on *Log Off*.
+Click on *Log Off*.
 
-![]()
+<div class="videoWrapper"></div>
 
-> Follow the Log In Instruction Booklet.
+Follow the Log In Instruction Booklet.
 
-![]()
+<div class="videoWrapper"></div>
 
 ### What is Programming?
 
@@ -161,19 +161,19 @@ Instruction|Meaning
 
 Human process instructions in a very complex but efficient manner. We are able to constantly observe change and thus sort ourselves rather quickly. Driving is a example of humans performing a complex task very easily.
 
-![]()
+<div class="videoWrapper"></div>
 
 ### Selection Sort
 
 We pick the a number and keep moving it till we find the right slot.
 
-![]()
+<div class="videoWrapper"></div>
 
 ### Bubble Sort (Easier for Humans)
 
 We compare pairs and swap them if needed.
 
-![]()
+<div class="videoWrapper"></div>
 
 ### Algorithms, Instruction Sets and More
 
@@ -187,15 +187,15 @@ Download -> [Cmder](https://github.com/cmderdev/cmder/releases/download/v1.3.6/c
 
 Click on *Show in folder*.
 
-![]()
+<div class="videoWrapper"></div>
 
 Right Click and then *Extract Here*.
 
-![]()
+<div class="videoWrapper"></div>
 
 Open Application.
 
-![]()
+<div class="videoWrapper"></div>
 
 ### Secure Shell
 
@@ -213,7 +213,7 @@ Enter password *1234*.
 
 After running this your screen should look similar this.
 
-![]()
+<div class="videoWrapper"></div>
 
 ### Source Control
 
@@ -227,7 +227,7 @@ git clone https://github.com/alexdantas/nSnake.git
 
 After running this your screen should look like this.
 
-![]()
+<div class="videoWrapper"></div>
 
 ### Compile
 
@@ -242,7 +242,7 @@ make
 
 After running this your screen should look like this.
 
-![]()
+<div class="videoWrapper"></div>
 
 ### Execute
 
@@ -257,7 +257,7 @@ cd bin
 
 After running this your screen should look like this.
 
-![]()
+<div class="videoWrapper"></div>
 
 ## Day 4
 
@@ -326,19 +326,19 @@ Type *print("Hello World!!")*.
 
 Open Word.
 
-![]()
+<div class="videoWrapper"></div>
 
 Click on *Blank document*.
 
-![]()
+<div class="videoWrapper"></div>
 
 Type what you want to type.
 
-![]()
+<div class="videoWrapper"></div>
 
 To save press *CTRL + S*. The select location, give a name and click save.
 
-![]()
+<div class="videoWrapper"></div>
 
 ### Introductory PowerPoint
 
@@ -346,27 +346,27 @@ To save press *CTRL + S*. The select location, give a name and click save.
 
 Open PowerPoint.
 
-![]()
+<div class="videoWrapper"></div>
 
 Click on *Blank presentation*.
 
-![]()
+<div class="videoWrapper"></div>
 
 Type what you want to type.
 
-![]()
+<div class="videoWrapper"></div>
 
 This is how you copy a picture.
 
-![]()
+<div class="videoWrapper"></div>
 
 To save press *CTRL + S*. The select location, give a name and click save.
 
-![]()
+<div class="videoWrapper"></div>
 
 To start a presentation press *F5* key.
 
-![]()
+<div class="videoWrapper"></div>
 
 ### Introductory Excel
 
@@ -374,15 +374,15 @@ To start a presentation press *F5* key.
 
 Open Excel.
 
-![]()
+<div class="videoWrapper"></div>
 
 Click on *Blank spreadsheet*.
 
-![]()
+<div class="videoWrapper"></div>
 
 Type what you want to type.
 
-![]()
+<div class="videoWrapper"></div>
 
 This is how you add numbers.
 
@@ -390,39 +390,39 @@ This is how you add numbers.
 =SUM(A1:A5)
 ```
 
-![]()
+<div class="videoWrapper"></div>
 
 To save press *CTRL + S*. The select location, give a name and click save.
 
-![]()
+<div class="videoWrapper"></div>
 
 ### PowerPoint Activity
 
 > In this activity we will use what we learned in the last class to work on a project. We have to make PowerPoint Presentation that shows us a Top 5's List. The topic is up to you and here is an example to help you out:
 
-![]()
+<div class="videoWrapper"></div>
 
-![]()
+<div class="videoWrapper"></div>
 
 ### Excel Activity
 
 > Excel do a lot more than add numbers. Here is an example of some of the stuff you can do.
 
-![]()
+<div class="videoWrapper"></div>
 
-![]()
+<div class="videoWrapper"></div>
 
 ### Email Activity
 
 > Since how your email works depends on the website you use, I will demonstrate how to use email on Gmail.
 
-![]()
+<div class="videoWrapper"></div>
 
 ### Stay Secure on the Internet
 
 > One must be careful using a computer. This is especially important if the computer is not yours. Here are some of the things that can harm you on the net and how to defend against it.
 
-![]()
+<div class="videoWrapper"></div>
 
 ## Day 6
 
