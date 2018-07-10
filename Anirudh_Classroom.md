@@ -9,7 +9,7 @@
     * [*Keyboard Activity*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#keyboard-activity)
     * [*Log Off / Log In*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#log-off--log-in)
     * [*What is Programming?*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#what-is-programming)
-    
+
 2. [**Day 2**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-2)
 
     * [*Conversational Programming*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#conversational-programming)
@@ -27,15 +27,15 @@
     * [*Source Control*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#source-control)
     * [*Compile*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#compile)
     * [*Execute*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#execute)
- 
+
 4. [**Day 4**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-4)
- 
+
     * [*Follow Instructions*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#follow-instructions)
     * [*C Hello World*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#c-hello-world)
     * [*Python Hello World*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#python-hello-world)
 
 5. [**Day 5**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-4)
-   
+
     * [*Introductory Word*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#introductory-word)
     * [*Introductory PowerPoint*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#introductory-powerpoint)
     * [*Introductory Excel*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#introductory-excel)
@@ -46,12 +46,12 @@
 
 6. [**Day 6**]()
 
-    * [*What is HTML?*]()
-    * [*Understanding Tags*]()
-    * [*Nesting Tags*]()
-    * [*Simple Website Tutorial*]()
-    
-7. [**References**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#references)
+    * [*What is HTML?*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#what-is-html)
+    * [*Understanding Tags*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#understanding-tags)
+    * [*Nesting Tags*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#nesting-tags)
+    * [*Simple Website Tutorial*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#simple-website-tutorial)
+
+7. [**References**](#references)
 
 ## Day 1
 
