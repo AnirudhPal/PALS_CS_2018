@@ -39,3 +39,10 @@ Monday, July 9, 2018
 
 **Activity: [LightBot](http://lightbot.com/flash.html)**
 * Finish game, then free time.
+
+## Day 7
+Tuesday, July 10, 2018
+
+**Activity: Microsoft Paint**
+
+Teach them the basics of Microsoft Paint and let them free draw.
