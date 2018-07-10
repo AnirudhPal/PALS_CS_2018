@@ -2,54 +2,54 @@
 
 ## Index
 
-1. [**Day 1**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-1)
+1. [**Day 1**](#day-1)
 
-    * [*Install AdBlock*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#install-adblock)
-    * [*Mouse Activity*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#mouse-activity)
-    * [*Keyboard Activity*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#keyboard-activity)
-    * [*Log Off / Log In*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#log-off--log-in)
-    * [*What is Programming?*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#what-is-programming)
+    * [*Install AdBlock*](#install-adblock)
+    * [*Mouse Activity*](#mouse-activity)
+    * [*Keyboard Activity*](#keyboard-activity)
+    * [*Log Off / Log In*](#log-off--log-in)
+    * [*What is Programming?*](#what-is-programming)
 
-2. [**Day 2**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-2)
+2. [**Day 2**](#day-2)
 
-    * [*Conversational Programming*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#conversational-programming)
-    * [*Instructional Programming*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#instructional-programming)
-    * [*Binary Programming*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#binary-programming)
-    * [*Human Sort*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#human-sort)
-    * [*Selection Sort*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#selection-sort)
-    * [*Bubble Sort*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#bubble-sort)
-    * [*Algorithms, Instruction Sets and More*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#algorithms-instruction-sets-and-more)
+    * [*Conversational Programming*](#conversational-programming)
+    * [*Instructional Programming*](#instructional-programming)
+    * [*Binary Programming*](#binary-programming)
+    * [*Human Sort*](#human-sort)
+    * [*Selection Sort*](#selection-sort)
+    * [*Bubble Sort*](#bubble-sort)
+    * [*Algorithms, Instruction Sets and More*](#algorithms-instruction-sets-and-more)
 
-3. [**Day 3**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-3)
+3. [**Day 3**](#day-3)
 
-    * [*Install Cmder*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#install-cmder)
-    * [*Secure Shell*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#secure-shell)
-    * [*Source Control*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#source-control)
-    * [*Compile*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#compile)
-    * [*Execute*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#execute)
+    * [*Install Cmder*](#install-cmder)
+    * [*Secure Shell*](#secure-shell)
+    * [*Source Control*](#source-control)
+    * [*Compile*](#compile)
+    * [*Execute*](#execute)
 
-4. [**Day 4**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-4)
+4. [**Day 4**](#day-4)
 
-    * [*Follow Instructions*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#follow-instructions)
-    * [*C Hello World*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#c-hello-world)
-    * [*Python Hello World*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#python-hello-world)
+    * [*Follow Instructions*](#follow-instructions)
+    * [*C Hello World*](#c-hello-world)
+    * [*Python Hello World*](#python-hello-world)
 
-5. [**Day 5**](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#day-4)
+5. [**Day 5**](#day-4)
 
-    * [*Introductory Word*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#introductory-word)
-    * [*Introductory PowerPoint*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#introductory-powerpoint)
-    * [*Introductory Excel*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#introductory-excel)
-    * [*PowerPoint Activity*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#powerpoint-activity)
-    * [*Excel Activity*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#excel-activity)
-    * [*Email Activity*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#email-activity)
-    * [*Stay Secure on the Internet*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#stay-secure-on-the-internet)
+    * [*Introductory Word*](#introductory-word)
+    * [*Introductory PowerPoint*](#introductory-powerpoint)
+    * [*Introductory Excel*](#introductory-excel)
+    * [*PowerPoint Activity*](#powerpoint-activity)
+    * [*Excel Activity*](#excel-activity)
+    * [*Email Activity*](#email-activity)
+    * [*Stay Secure on the Internet*](#stay-secure-on-the-internet)
 
 6. [**Day 6**]()
 
-    * [*What is HTML?*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#what-is-html)
-    * [*Understanding Tags*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#understanding-tags)
-    * [*Nesting Tags*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#nesting-tags)
-    * [*Simple Website Tutorial*](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom#simple-website-tutorial)
+    * [*What is HTML?*](#what-is-html)
+    * [*Understanding Tags*](#understanding-tags)
+    * [*Nesting Tags*](#nesting-tags)
+    * [*Simple Website Tutorial*](#simple-website-tutorial)
 
 7. [**References**](#references)
 
@@ -322,21 +322,107 @@ Type *print("Hello World!!")*.
 
 ### Introductory Word
 
+> Microsoft Word is an application used for making text documents with formatting.
+
+Open Word.
+
+![]()
+
+Click on *Blank document*.
+
+![]()
+
+Type what you want to type.
+
+![]()
+
+To save press *CTRL + S*. The select location, give a name and click save.
+
+![]()
+
 ### Introductory PowerPoint
+
+> Microsoft PowerPoint is a presentation software which can be used for school projects as well as business meetings.
+
+Open PowerPoint.
+
+![]()
+
+Click on *Blank presentation*.
+
+![]()
+
+Type what you want to type.
+
+![]()
+
+This is how you copy a picture.
+
+![]()
+
+To save press *CTRL + S*. The select location, give a name and click save.
+
+![]()
+
+To start a presentation press *F5* key.
+
+![]()
 
 ### Introductory Excel
 
+> Microsoft Excel is probably to most powerful yet under-utilized tool from Microsoft Office. It can be used manipulating multiple data points.
+
+Open Excel.
+
+![]()
+
+Click on *Blank spreadsheet*.
+
+![]()
+
+Type what you want to type.
+
+![]()
+
+This is how you add numbers.
+
+```
+=SUM(A1:A5)
+```
+
+![]()
+
+To save press *CTRL + S*. The select location, give a name and click save.
+
+![]()
+
 ### PowerPoint Activity
 
-> In this activity we will use what we learned in the last class to work on a project. We have to make PowerPoint Presentation that shows us a Top 5's List. The topic is up to you and here is an example to help you out -> [Example](https://drive.google.com/file/d/1yvcbHd6GNcJVrhURWukqie5-gja--y2S/view?usp=sharing).
+> In this activity we will use what we learned in the last class to work on a project. We have to make PowerPoint Presentation that shows us a Top 5's List. The topic is up to you and here is an example to help you out:
 
-[Hint Video](https://youtu.be/2HC5iIG2QTA)
+![]()
+
+![]()
 
 ### Excel Activity
 
+> Excel do a lot more than add numbers. Here is an example of some of the stuff you can do.
+
+![]()
+
+![]()
+
 ### Email Activity
 
+> Since how your email works depends on the website you use, I will demonstrate how to use email on Gmail.
+
+![]()
+
 ### Stay Secure on the Internet
+
+> One must be careful using a computer. This is especially important if the computer is not yours. Here are some of the things that can harm you on the net and how to defend against it.
+
+![]()
 
 ## Day 6
 
