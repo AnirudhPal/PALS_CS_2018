@@ -169,19 +169,17 @@ Instruction|Meaning
 
 Human process instructions in a very complex but efficient manner. We are able to constantly observe change and thus sort ourselves rather quickly. Driving is a example of humans performing a complex task very easily.
 
-<div class="videoWrapper"></div>
-
 ### Selection Sort
 
 We pick the a number and keep moving it till we find the right slot.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/92BfuxHn2XE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ### Bubble Sort (Easier for Humans)
 
 We compare pairs and swap them if needed.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/Cq7SMsQBEUw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ### Algorithms, Instruction Sets and More
 
@@ -191,19 +189,21 @@ We compare pairs and swap them if needed.
 
 ### Install Cmder
 
+> Cmder is an excellent command line interface for Windows machines, people MacOS can use the built in Terminal program.
+
 Download -> [Cmder](https://github.com/cmderdev/cmder/releases/download/v1.3.6/cmder_mini.zip)
 
 Click on *Show in folder*.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/r1VjkGYyRHE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 Right Click and then *Extract Here*.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/epwpiUeL5xI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 Open Application.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/x6MhM5kNfYk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ### Secure Shell
 
@@ -219,10 +219,6 @@ Say *yes* if you get a prompt.
 
 Enter password *1234*.
 
-After running this your screen should look similar this.
-
-<div class="videoWrapper"></div>
-
 ### Source Control
 
 > GIT is a application that allows exchange of code and is used to log modification to files that are shared among multiple users. We only use it to download source code.
@@ -232,10 +228,6 @@ Enter the command below.
 ``` bash
 git clone https://github.com/alexdantas/nSnake.git
 ```
-
-After running this your screen should look like this.
-
-<div class="videoWrapper"></div>
 
 ### Compile
 
@@ -248,10 +240,6 @@ cd nSnake
 make
 ```
 
-After running this your screen should look like this.
-
-<div class="videoWrapper"></div>
-
 ### Execute
 
 > At this point we have the code translated to what a machine can understand. But when does it start reading it? We have to tell it start reading the code and running the application. This process is called execution.
@@ -263,9 +251,9 @@ cd bin
 ./nsnake
 ```
 
-After running this your screen should look like this.
+** Here is a video showing this process: **
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/JpYJ_x3BnXg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ## Day 4
 
@@ -326,6 +314,10 @@ python
 
 Type *print("Hello World!!")*.
 
+** Here is a video showing this process: **
+
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/_NAz2m07jjY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
 ## Day 5
 
 ### Introductory Word
@@ -334,19 +326,19 @@ Type *print("Hello World!!")*.
 
 Open Word.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/iVEuJc20788" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 Click on *Blank document*.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/LqH8epCIWIU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 Type what you want to type.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/zBviGGMXxhU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 To save press *CTRL + S*. The select location, give a name and click save.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/zhLHQFqyI_E" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ### Introductory PowerPoint
 
