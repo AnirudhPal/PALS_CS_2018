@@ -346,27 +346,27 @@ To save press *CTRL + S*. The select location, give a name and click save.
 
 Open PowerPoint.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/El_SLH1vBJ4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 Click on *Blank presentation*.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/sBpX0UtoiGU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 Type what you want to type.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/InVpbImdA9M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 This is how you copy a picture.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/in9sHy7vc6I" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 To save press *CTRL + S*. The select location, give a name and click save.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/JBFYU65SDl4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 To start a presentation press *F5* key.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/6t0y9AILy4U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ### Introductory Excel
 
@@ -374,15 +374,15 @@ To start a presentation press *F5* key.
 
 Open Excel.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/csiydddQe4s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 Click on *Blank spreadsheet*.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/osDo0arOSjw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 Type what you want to type.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/R2kbvTL2CHE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 This is how you add numbers.
 
@@ -390,11 +390,11 @@ This is how you add numbers.
 =SUM(A1:A5)
 ```
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/1c-Wn4_H3WI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 To save press *CTRL + S*. The select location, give a name and click save.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/NecxYHcsVO8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ### PowerPoint Activity
 
