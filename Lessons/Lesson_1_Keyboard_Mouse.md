@@ -82,7 +82,7 @@ Click on *Shut Down*.
 
 Follow the Log In Instruction Booklet.
 
-![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/Card.PNG?raw=true)
+![](https://github.com/AnirudhPal/PALS_CS_2018/blob/master/assets/LogIn/Card.PNG?raw=true)
 
 ## What is Programming?
 
