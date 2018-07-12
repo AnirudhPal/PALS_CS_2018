@@ -23,7 +23,7 @@
 ## Part 2
 1. Tell the kids to sort themselves with the following **rules**:
     * You must remain in line.
-    * You may only swap*with the person next to you.
+    * You may only *swap* with the person next to you.
     * You may only show your card to the person next to you.
     * Only 1 swap at a time. In order to perform a swap, someone must state who they are swapping with. **If two people yell "Swap!" at the same time then make them start over**(This is to teach how computers are *single instruction*, and can only perform one task at a time.)
 Give them the option to work together and devise a strategy.
