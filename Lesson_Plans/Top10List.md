@@ -4,7 +4,8 @@
 Kids wil become familiar with using Powerpoint by creating a **Top 10 List**.
 
 ## Example:
-**[Top 10 Cereals](https://anirudhpal.github.io/PALS_CS_2018/Examples/Top_10_Cereals.pdf)**
+### Top 10 Cereals
+<div class="videoWrapper"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQf5c5MYJwsOj-taLkG-nv35QBw6BqM4SU2zR1c727Gj07_5egQNKIdSxjULYvTWxFdh9cPuXpqCuZ0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Step 1: Open Microsoft Powerpoint
 In Cortona, type _Powerpoint_ and click _Powerpoint 2016_.
