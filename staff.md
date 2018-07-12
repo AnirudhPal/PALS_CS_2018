@@ -1,5 +1,5 @@
 # PALS Computers Instructor Guide
-![PALS_Logo](PALS_CS_2018/Assets/Misc/PALS.png)
+![PALS_Logo](/PALS_CS_2018/Assets/Misc/PALS.png)
 
 ## Reccomendations
 * For the younger kids (**Groups 1-10**) spend more days on things such as _typing_ and _simple logic games_. Check [links](../Links.md) for recommended typing lessons and games.
