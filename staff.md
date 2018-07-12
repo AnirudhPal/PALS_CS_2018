@@ -1,14 +1,12 @@
-# PALS_CS_2018
+# PALS Computers Instructor Guide
+![PALS_Logo](../Assets/Misc/PALS.png)
+## Reccomendations
+* For the younger kids (**Groups 1-10**) spend more days on things such as _typing_ and _simple logic games_. Check [links](../Links.md) for recommended typing lessons and games.
+* For the older kids (**Groups 11-20**) spend more time on _code/logic related games and activities_.
+* We encourage that you add on to this repository. Update it for future Computer Instructors. Keep what works, discard what doesn't.
 
-> Please place all documentation in the appropriate file. 
-
-**Useful Links**
-
-1. [Anirudh Credentials](https://anirudhpal.github.io/PALS_CS_2018/Credentials/Anirudh_Credentials)
-2. [Nathan Credentials](https://anirudhpal.github.io/PALS_CS_2018/Credentials/Nathan_Credentials)
-3. [Anirudh Classroom](https://anirudhpal.github.io/PALS_CS_2018/Anirudh_Classroom)
-4. [Nathan Classroom](https://anirudhpal.github.io/PALS_CS_2018/Nathan_Classroom)
-5. [Day 1 Lesson Plan](https://anirudhpal.github.io/PALS_CS_2018/Lesson_Plans/Day1_Lesson_Plan)
-6. [Day 2 Lesson Plan](https://anirudhpal.github.io/PALS_CS_2018/Lesson_Plans/Day2_Lesson_Plan)
-7. [Day 3 Lesson Plan](https://anirudhpal.github.io/PALS_CS_2018/Lesson_Plans/Day3_Lesson_Plan)
-8. [Day 4 Lesson Plan](https://anirudhpal.github.io/PALS_CS_2018/Lesson_Plans/Day4_Lesson_Plan)
+## Contact Us
+Feel free to contact us at any time:
+### Nathan Cohen
+* Email: ncohen4299@gmail.com
+* GitHub: [nathancohen4299](https://github.com/nathancohen4299)
