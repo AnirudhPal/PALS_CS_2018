@@ -408,21 +408,27 @@ To save press *CTRL + S*. The select location, give a name and click save.
 
 > Excel do a lot more than add numbers. Here is an example of some of the stuff you can do.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/u8mCe-LOy-A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYHwMtdC6vA1b6hqI38Mj3YMTRqt-14XZpcUq1Dm9h04lnMH7-rxx6q7JYbCbfuTIKljegM5k-uPqX/pubhtml?widget=true&amp;headers=false"></iframe></div>
 
 ### Email Activity
 
 > Since how your email works depends on the website you use, I will demonstrate how to use email on Gmail.
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/VqzvkXvAzFc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ### Stay Secure on the Internet
 
 > One must be careful using a computer. This is especially important if the computer is not yours. Here are some of the things that can harm you on the net and how to defend against it.
 
-<div class="videoWrapper"></div>
+Type of Attack|How it's done?|How to defend against it
+:-:|:-:|:-:
+Man In The Middle Attack|You connect tp any free WiFi point you find in a public place. So, someone creates a fake access point that steals your information when you connect and use the Internet.| Only connect to know or trusted public WiFi.
+Spoofing|We tend to not think twice before entering our credentials into a portal. This is exploited by attackers by making fake websites that look like Google, Facebook or Twitter log in.| One should always check the URL before using a website.
+Social Engineering|This is probably the easiest way to get your account hacked. It works by convincing you to share your credentials by means of talking to you. It can be a friend who always asks you about your password.|Simple, don't give anyone your password.
+Sniffing|People can scan and see what you send over WiFi.|Use HTTPS instead of HTTP.
+
 
 ## Day 6
 
