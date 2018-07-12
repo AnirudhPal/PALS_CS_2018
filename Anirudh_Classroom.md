@@ -400,9 +400,9 @@ To save press *CTRL + S*. The select location, give a name and click save.
 
 > In this activity we will use what we learned in the last class to work on a project. We have to make PowerPoint Presentation that shows us a Top 5's List. The topic is up to you and here is an example to help you out:
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/2HC5iIG2QTA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
-<div class="videoWrapper"></div>
+<div class="videoWrapper"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTsaQSSoe4ySwenmZVx9ZLu4lFCafXUdDEW6jfEjHU8gy3H-7H8llCmhq9zIdMW47tyjVwMLRbTY6Nx/embed?start=false&loop=true&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ### Excel Activity
 
