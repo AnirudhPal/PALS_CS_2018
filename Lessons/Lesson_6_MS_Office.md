@@ -1,4 +1,4 @@
-# Lesson 5 - Microsoft Office
+# Lesson 6 - Microsoft Office
 
 ## Index
 
