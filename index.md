@@ -5,7 +5,7 @@
   <img src="/PALS_CS_2018/assets/pic/Key_Mouse.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Keyboard and Mouse</b></h4> 
-    <p>Helps your work on your mouse and keyboard skills which you can show off while playing computer games.</p> 
+    <p>Improve your skills on a keyboard and mouse.</p> 
   </div>
   </a>
 </div>
@@ -17,7 +17,7 @@
   <img src="/PALS_CS_2018/assets/pic/Code.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>What is Programming?</b></h4> 
-    <p>The whole concept of programming and coding can be alittle confusing. Use this activity to familiarize yourself with instruction set, sorting and algorithms.</p> 
+    <p>Understand what programming really means.</p> 
   </div>
   </a>
 </div>
@@ -41,7 +41,7 @@
   <img src="/PALS_CS_2018/assets/pic/Python.png" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Hello World!!</b></h4> 
-    <p>Hello World is the first program you right in a new programming language. We will do this for C and Python.</p> 
+    <p>Write your first program in C and Python.</p> 
   </div>
   </a>
 </div>
