@@ -11,3 +11,6 @@ Feel free to contact us at any time:
 ### Nathan Cohen
 * Email: ncohen4299@gmail.com
 * GitHub: [nathancohen4299](https://github.com/nathancohen4299)
+
+### Anirudh Pal
+* Email:
