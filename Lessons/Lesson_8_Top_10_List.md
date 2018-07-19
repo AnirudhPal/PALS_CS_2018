@@ -1,4 +1,4 @@
-# Top 10 List
+# Lesson 8 - Top 10 List
 
 ## Description
 Kids wil become familiar with using Powerpoint by creating a **Top 10 List**.
