@@ -6,6 +6,8 @@
 * For the older kids (**Groups 11-20**) spend more time on _code/logic related games and activities_.
 * We encourage that you add on to this repository. Update it for future Computer Instructors. Keep what works, discard what doesn't.
 
+For finished lesson plans, go to [Lesson Plans](../Lesson_Plans/)
+
 ## Contact Us
 Feel free to contact us at any time:
 ### Nathan Cohen
