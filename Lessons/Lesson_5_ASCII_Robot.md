@@ -1,7 +1,7 @@
 # ASCII Robot
 ## Description
 
-Kids will write their first python program! This program is called *ASCII Robot*. When Run it will print out an ascii character robot that they made
+This program is called *ASCII Robot*. When they Run it will print out an ascii character robot that they made
 
 ## Step 1: Open Python 3.4.3 Shell
 In Cortona type python and click on **Python 3.4 IDLE(PythonGUI)**
