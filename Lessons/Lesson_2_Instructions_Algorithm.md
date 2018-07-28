@@ -40,19 +40,19 @@ Instruction|Meaning
 
 ## Human Sort
 
-Human process instructions in a very complex but efficient manner. We are able to constantly observe change and thus sort ourselves rather quickly. Driving is a example of humans performing a complex task very easily.
+A human processes instructions in a very complex but efficient manner. We are able to constantly observe change and thus sort ourselves rather quickly. Driving is a example of humans performing a complex task very easily.
 
 ## Selection Sort
 
-We pick the a number and keep moving it till we find the right slot.
+We pick a number and keep moving it till we find the right slot.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/92BfuxHn2XE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/92BfuxHn2XE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ## Bubble Sort (Easier for Humans)
 
 We compare pairs and swap them if needed.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/Cq7SMsQBEUw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/Cq7SMsQBEUw?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ## Algorithms, Instruction Sets and More
 
