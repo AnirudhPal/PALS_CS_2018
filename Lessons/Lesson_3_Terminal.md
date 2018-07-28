@@ -16,15 +16,19 @@ Download -> [Cmder](https://github.com/cmderdev/cmder/releases/download/v1.3.6/c
 
 Click on *Show in folder*.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/r1VjkGYyRHE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/r1VjkGYyRHE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+&nbsp;
 
 Right Click and then *Extract Here*.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/epwpiUeL5xI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/epwpiUeL5xI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+&nbsp;
 
 Open Application.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/x6MhM5kNfYk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/x6MhM5kNfYk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 ## Secure Shell
 
@@ -72,6 +76,6 @@ cd bin
 ./nsnake
 ```
 
-** Here is a video showing this process: **
+** Here is a video showing this process. **
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/JpYJ_x3BnXg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/JpYJ_x3BnXg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
