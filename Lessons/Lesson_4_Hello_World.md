@@ -65,4 +65,4 @@ Type *print("Hello World!!")*.
 
 ### Here is a video showing this process:
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/_NAz2m07jjY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/_NAz2m07jjY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
