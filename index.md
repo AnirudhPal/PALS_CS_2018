@@ -73,7 +73,7 @@
 &nbsp;
 
 <div class="card">
-  <a href="/PALS_CS_2018/Lessons/Lesson_7_Top_10">
+  <a href="/PALS_CS_2018/Lessons/Lesson_7_Top_10_List">
   <img src="/PALS_CS_2018/assets/pic/Top10.jpg" alt="Avatar" style="width:100%">
   <div class="container">
     <h4><b>Top 10 List Presentation</b></h4> 
