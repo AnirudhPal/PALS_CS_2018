@@ -20,31 +20,31 @@ Open chrome's options menu.
 
 Navigate to *More tools*.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/jMBhRl_y6bo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/jMBhRl_y6bo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 &nbsp
 
 Click on *Extensions*.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fc6-NGxawHg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/Fc6-NGxawHg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 &nbsp
 
 Click on *Get more Extensions*.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/wBTdq_0i_7Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/wBTdq_0i_7Y?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 &nbsp
 
 Search for *ABP*.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/PjumpTYmxY0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/PjumpTYmxY0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 &nbsp
 
 Install *AdBlock*.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/mCAOPjoP3PE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/mCAOPjoP3PE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 &nbsp
 
@@ -56,19 +56,19 @@ Click on Link --> [Mouse Game](https://www.netplay.life/)
 
 Scroll Down
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/PxfTZw9maLE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/PxfTZw9maLE?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 &nbsp
 
 Click on *FULL SCREEN* and play the game.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/6FP65z84IHk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/6FP65z84IHk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 &nbsp
 
 Keep your scores ready.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/-qy9KG01o48" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/-qy9KG01o48?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 &nbsp
 
@@ -80,13 +80,13 @@ Click on Link --> [Keyboard Game](http://zty.pe/)
 
 Click on *new game*.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/zNJ7jX7PB6c" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/zNJ7jX7PB6c?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 &nbsp
 
 Keep your scores ready.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/s1wMLVJi7Es" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/s1wMLVJi7Es?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 &nbsp
 
@@ -96,13 +96,13 @@ Keep your scores ready.
 
 Click on Start.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/h9Z5GaY48YM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/h9Z5GaY48YM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 &nbsp
 
 Click on *Shut Down*.
 
-<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/vuFoF0Xy8sg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+<div class="videoWrapper"><iframe width="560" height="315" src="https://www.youtube.com/embed/vuFoF0Xy8sg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
 
 &nbsp
 
